@@ -2,3 +2,4 @@
 
 - The Food Tech monthly dashboard: `thefoodtech-dashboard-mensual/index.html`
 - The Logistics World monthly dashboard: `thelogisticsworld-dashboard-mensual/index.html`
+- Expo The Food Tech monthly dashboard: `expo-thefoodtech-dashboard-mensual/index.html`
